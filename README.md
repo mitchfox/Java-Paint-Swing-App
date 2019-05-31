@@ -1,8 +1,6 @@
-#Java Paint Application using Swing
+## Java Paint App using Swing
 
-![App GUI](/screenshots/app.jpg?raw=true "Application GUI - VecSpectre")
-
-
+![App GUI](/screenshots/app.png? "Application GUI - VecSpectre")
 
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
