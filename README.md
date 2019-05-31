@@ -2,6 +2,8 @@
 
 ![App GUI](/screenshots/app.png? "Application GUI - VecSpectre")
 
+**Created By Jonathan Bowen & Mitch Fox
+
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
